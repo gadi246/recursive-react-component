@@ -1,3 +1,5 @@
+## React rucrsive components demo rendered by dynamic user click interaction, no data predifned.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
